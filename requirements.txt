@@ -1,0 +1,4 @@
+openai
+gTTS
+PyPDF2
+python-dotenv
